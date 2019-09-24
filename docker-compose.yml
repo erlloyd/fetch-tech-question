@@ -6,6 +6,7 @@ services:
     image: node:12.10.0
     working_dir: /app
     ports: 
-      - 80:3000
+      - 3000:3000
     volumes:
       - .:/app
+    command: bash -c "npm install && npm start"
