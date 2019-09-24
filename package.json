@@ -1,0 +1,23 @@
+{
+  "name": "fetch-tech-question",
+  "version": "1.0.0",
+  "description": "fetch tech question",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erlloyd/fetch-tech-question.git"
+  },
+  "author": "Eric Lloyd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/erlloyd/fetch-tech-question/issues"
+  },
+  "homepage": "https://github.com/erlloyd/fetch-tech-question#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
