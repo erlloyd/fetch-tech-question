@@ -9,7 +9,7 @@ If you have docker installed on your host machine, running this web service is v
 This brings up a docker container running Node 12.10.0 and starts the web service, listening locally to port 3000
 
 ## Running the solution on the host
-If you do *not* have docker installed on yorr host machine, running this web service is still very straightforward simple. You will need NodeJS / npm installed on your system (I tested with node v12.10.0).
+If you do *not* have docker installed on your host machine, just install it!! Ok, if you _really_ don't want to use docker, running this web service is still very straightforward. You will need NodeJS / npm installed on your system (I tested with node v12.10.0).
 
 After cloning the repo, go to the top-level directory and run:
 
